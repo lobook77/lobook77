@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Biblia Viva AI",
+  "description": "Uma experiência imersiva de estudo bíblico com mentor de voz em tempo real, visualização de temas e geração de imagens inspiradas nas escrituras.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
